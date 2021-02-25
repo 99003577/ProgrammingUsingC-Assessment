@@ -1,0 +1,6 @@
+C:\Users\CTEA\Source\Repos\ProgrammingUsingC-Assessment\ProblemOne_IncorrectSolution\bin\Debug\ProblemOne_IncorrectSolution.exe.config
+C:\Users\CTEA\Source\Repos\ProgrammingUsingC-Assessment\ProblemOne_IncorrectSolution\bin\Debug\ProblemOne_IncorrectSolution.exe
+C:\Users\CTEA\Source\Repos\ProgrammingUsingC-Assessment\ProblemOne_IncorrectSolution\bin\Debug\ProblemOne_IncorrectSolution.pdb
+C:\Users\CTEA\Source\Repos\ProgrammingUsingC-Assessment\ProblemOne_IncorrectSolution\obj\Debug\ProblemOne_LogicError.csproj.CoreCompileInputs.cache
+C:\Users\CTEA\Source\Repos\ProgrammingUsingC-Assessment\ProblemOne_IncorrectSolution\obj\Debug\ProblemOne_IncorrectSolution.exe
+C:\Users\CTEA\Source\Repos\ProgrammingUsingC-Assessment\ProblemOne_IncorrectSolution\obj\Debug\ProblemOne_IncorrectSolution.pdb
