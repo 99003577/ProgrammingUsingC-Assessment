@@ -1,2 +1,7 @@
 C:\Users\CTEA\Source\Repos\ProgrammingUsingC-Assessment\ProblemTwo_CompilationError\obj\Debug\ProblemTwo_CompilationError.csprojAssemblyReference.cache
 C:\Users\CTEA\Source\Repos\ProgrammingUsingC-Assessment\ProblemTwo_CompilationError\obj\Debug\ProblemTwo_CompilationError.csproj.CoreCompileInputs.cache
+C:\Users\CTEA\Source\Repos\ProgrammingUsingC-Assessment\ProblemTwo_CompilationError\bin\Debug\ProblemTwo_CompilationError.exe.config
+C:\Users\CTEA\Source\Repos\ProgrammingUsingC-Assessment\ProblemTwo_CompilationError\bin\Debug\ProblemTwo_CompilationError.exe
+C:\Users\CTEA\Source\Repos\ProgrammingUsingC-Assessment\ProblemTwo_CompilationError\bin\Debug\ProblemTwo_CompilationError.pdb
+C:\Users\CTEA\Source\Repos\ProgrammingUsingC-Assessment\ProblemTwo_CompilationError\obj\Debug\ProblemTwo_CompilationError.exe
+C:\Users\CTEA\Source\Repos\ProgrammingUsingC-Assessment\ProblemTwo_CompilationError\obj\Debug\ProblemTwo_CompilationError.pdb
